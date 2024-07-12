@@ -1,0 +1,50 @@
+*{
+    font-family: Arial;
+    margin: 0;
+    padding: 0;
+}
+.cover{
+    width: 100%;
+    display: flex;
+}
+.leftpage{
+    width: 30%;
+    height:auto;
+    background-color: whitesmoke;
+    padding: 19px;
+}
+.rightpage{
+    width:65%;
+    height: auto;
+    padding: 19px;
+}
+.list{
+    list-style: none;
+}
+.btn{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    width: 70%;
+    height: 35px;
+    border-color:blue;
+}
+.para1{
+    color:rgba(22, 12, 12, 0.705);
+}
+.bn-btn{
+    background-color: rgb(22, 170, 196);
+    border-color: rgb(22, 170, 196);
+    color: white;
+    text-align: center;
+    width: 30%;
+    height: 40px;
+    margin-left: 19px;
+}
+.list1{
+list-style: none;
+color:rgba(22, 12, 12, 0.705);
+}
+.btn-pos{
+    margin-left: 85vh;
+}
